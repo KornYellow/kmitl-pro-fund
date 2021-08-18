@@ -1,4 +1,5 @@
 .vscode/
+*.exe
 playground.cpp
 
 solution_1
@@ -7,3 +8,4 @@ solution_2
 problem_1
 problem_2
 problem_3
+
