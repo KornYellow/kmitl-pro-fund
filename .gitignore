@@ -1,7 +1,9 @@
 .vscode/
 *.exe
+
 playground.cpp
 playground.md
+playground
 
 solution_1
 solution_2
