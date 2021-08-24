@@ -22,5 +22,5 @@
 
 ## 🔗 ลิ้งค์
 
-→ [รายการโจทย์ปัญหา (Google Doc)](https://docs.google.com/document/d/1ZvJCqXif7hGMGWO1VD9V2Lkamiu-ZDyI9epi1ooGwUE/edit)
-→ [ห้องเรียน (Google Classroom](https://classroom.google.com/u/1/c/Mzc0MjM5MzM4MjYz)
+- → [รายการโจทย์ปัญหา (Google Doc)](https://docs.google.com/document/d/1ZvJCqXif7hGMGWO1VD9V2Lkamiu-ZDyI9epi1ooGwUE/edit)
+- → [ห้องเรียน (Google Classroom](https://classroom.google.com/u/1/c/Mzc0MjM5MzM4MjYz)
