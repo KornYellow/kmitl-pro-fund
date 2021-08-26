@@ -12,6 +12,7 @@ int main() {
     string number;
     cin >> number;
 
+    cout << number;
     while(number.size() > 1) {
 
         int number_added = 0;
@@ -20,8 +21,8 @@ int main() {
             number_added += (int)number.at(i) - 48;
         }
         number = to_string(number_added);
+        cout << " -> " << number;
     }
-    cout << number.at(0) << endl;
 
     return 0;
 }
