@@ -2,7 +2,7 @@
 
 ใช้สำหรับเก็บไฟล์สำหรับเรียนวิชา Programming fundamental ในปีการศึกษา 1/2564
 
-- [/programming-problem](https://github.com/KornYellow/kmitl-works/tree/main/programming-problem) _ฝึกทำตัวอย่างโจทย์ปัญหา **ทำเสร็จ (2/145)**_
+- [/programming-problem](https://github.com/KornYellow/kmitl-works/tree/main/programming-problem) _ฝึกทำตัวอย่างโจทย์ปัญหา **ทำเสร็จ (5/145)**_
 - [/labs](https://github.com/KornYellow/kmitl-works/tree/main/labs) _Labs ต่าง ๆ_
 
 ## 📝 สิ่งที่ทำจะทำ/ทำเสร็จ
@@ -31,7 +31,7 @@
     - [x] _ครั้งที่ 5_
     - [x] _ครั้งที่ 6_
 - **_Assignment_**
-    - [ ] _Game Proposal_
+    - [x] _Game Proposal_
 
 ## 🔗 ลิ้งค์
 
