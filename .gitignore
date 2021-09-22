@@ -2,6 +2,7 @@
 *.exe
 
 playground.cpp
+playground.c
 playground.md
 playground
 
