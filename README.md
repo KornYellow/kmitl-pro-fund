@@ -2,8 +2,9 @@
 
 ใช้สำหรับเก็บไฟล์สำหรับเรียนวิชา Programming fundamental ในปีการศึกษา 1/2564
 
-- [/programming-problem](https://github.com/KornYellow/kmitl-works/tree/main/programming-problem) _ฝึกทำตัวอย่างโจทย์ปัญหา **ทำเสร็จ (5/145)**_
+- [/programming-problem](https://github.com/KornYellow/kmitl-works/tree/main/programming-problem) _โปรแกรมรายสัปดาห์ **ทำเสร็จ (5/145)**_
 - [/labs](https://github.com/KornYellow/kmitl-works/tree/main/labs) _Labs ต่าง ๆ_
+- [/activities](https://github.com/KornYellow/kmitl-works/tree/main/activities) _Activities ต่าง ๆ_
 
 ## 📝 สิ่งที่ทำจะทำ/ทำเสร็จ
 
