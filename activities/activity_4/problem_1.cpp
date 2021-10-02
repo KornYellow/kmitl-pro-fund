@@ -22,10 +22,8 @@ int main() {
     int number;
     cin >> number;
 
-    for(int i = 0; i < number; i++) {
-        if(isPrime(number)) cout << number << " is a prime number." << endl;
-        else cout << number << " is not a prime number." << endl;
-    }
+    if(isPrime(number)) cout << number << " is a prime number." << endl;
+    else cout << number << " is not a prime number." << endl;
 
     return 0;
 }
