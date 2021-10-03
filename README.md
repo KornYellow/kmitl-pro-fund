@@ -2,7 +2,7 @@
 
 ใช้สำหรับเก็บไฟล์สำหรับเรียนวิชา Programming fundamental ในปีการศึกษา 1/2564
 
-- [/programming-problem](https://github.com/KornYellow/kmitl-works/tree/main/programming-problem) _โปรแกรมรายสัปดาห์ **ทำเสร็จ (5/145)**_
+- [/programming-problem](https://github.com/KornYellow/kmitl-works/tree/main/programming-problem) _โปรแกรมรายสัปดาห์ **ทำเสร็จ (8/145)**_
 - [/labs](https://github.com/KornYellow/kmitl-works/tree/main/labs) _Labs ต่าง ๆ_
 - [/activities](https://github.com/KornYellow/kmitl-works/tree/main/activities) _Activities ต่าง ๆ_
 
@@ -40,7 +40,7 @@
 
 ## 🗓️ ปฏิทิน
 
-**ตอนนี้สัปดาห์ที่ 8**
+**ตอนนี้สัปดาห์ที่ 9**
 
 ### สิงหาคม
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
