@@ -2,7 +2,7 @@
 
 ใช้สำหรับเก็บไฟล์สำหรับเรียนวิชา Programming fundamental ในปีการศึกษา 1/2564
 
-- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _โปรแกรม Project Euler **ทำเสร็จ (13/756)**_
+- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _โปรแกรม Project Euler **ทำเสร็จ (17/756)**_
 - [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _โปรแกรมรายสัปดาห์ **ทำเสร็จ (8/145)**_
 - [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs ต่าง ๆ_
 - [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities ต่าง ๆ_
@@ -27,7 +27,7 @@
     - [x] _แลป 5_
     - [x] _แลป 6_
     - [x] _แลป 7_
-    - [ ] _แลป 8_
+    - [x] _แลป 8_
 - **_Activity_**
     - [x] _ครั้งที่ 1_
     - [x] _ครั้งที่ 2_
@@ -38,10 +38,17 @@
     - [x] _ครั้งที่ 7_
 - **_Assignment_**
     - [x] _Game Proposal_
+    - [ ] _ความคืบหน้า ครั้งที่ 1_
+    - [ ] _ความคืบหน้า ครั้งที่ 2_
+    - [ ] _Progress ครั้งที่ 1_
+    - [ ] _Progress ครั้งที่ 2_
+    - [ ] _Progress ครั้งที่ 3_
+    - [ ] _Progress ครั้งที่ 4_
+    - [ ] _Progress ครั้งที่ 5_
 
 ## 🗓️ ปฏิทิน
 
-**ตอนนี้สัปดาห์ที่ 9**
+**ตอนนี้สัปดาห์ที่ 11**
 
 ### สิงหาคม
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
