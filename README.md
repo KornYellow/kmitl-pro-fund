@@ -2,7 +2,7 @@
 
 ใช้สำหรับเก็บไฟล์สำหรับเรียนวิชา Programming fundamental ในปีการศึกษา 1/2564
 
-- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _โปรแกรม Project Euler **ทำเสร็จ (17/756)**_
+- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _โปรแกรม Project Euler **ทำเสร็จ (22/756)**_
 - [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _โปรแกรมรายสัปดาห์ **ทำเสร็จ (8/145)**_
 - [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs ต่าง ๆ_
 - [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities ต่าง ๆ_
