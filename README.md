@@ -2,7 +2,7 @@
 
 A place to store my works on subject Programming fundamental 1/2564
 
-- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _Project Euler **Done(24)**_
+- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _Project Euler **Done (24)**_
 - [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _Programming Problem **Done (8)**_
 - [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs_
 - [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities_
