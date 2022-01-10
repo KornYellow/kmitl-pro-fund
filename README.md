@@ -1,68 +1,60 @@
-## 📑 KMITL วิชา Programming fundamental
+## 📑 KMITL Programming fundamental
 
-ใช้สำหรับเก็บไฟล์สำหรับเรียนวิชา Programming fundamental ในปีการศึกษา 1/2564
+A place to store my works on subject Programming fundamental 1/2564
 
-- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _โปรแกรม Project Euler **ทำเสร็จ (24 ข้อ)**_
-- [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _โปรแกรมรายสัปดาห์ **ทำเสร็จ (8 ข้อ)**_
-- [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs ต่าง ๆ_
-- [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities ต่าง ๆ_
+- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _Project Euler **Done(24)**_
+- [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _Programming Problem **Done (8)**_
+- [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs_
+- [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities_
 
-## 📝 สิ่งที่ทำจะทำ / ทำเสร็จ
+## 📝 Work to do / Done
 
 - **_Weekly_**
-    - [x] _สัปดาห์ที่ 1_
-    - [x] _สัปดาห์ที่ 2_
-    - [x] _สัปดาห์ที่ 3_
-    - [x] _สัปดาห์ที่ 4_
-    - [x] _สัปดาห์ที่ 5_
-    - [x] _สัปดาห์ที่ 6_
-    - [x] _สัปดาห์ที่ 7_
-    - [x] _สัปดาห์ที่ 8_
-    - [x] _สัปดาห์ที่ 9_
+    - [x] _Week 1_
+    - [x] _Week 2_
+    - [x] _Week 3_
+    - [x] _Week 4_
+    - [x] _Week 5_
+    - [x] _Week 6_
+    - [x] _Week 7_
+    - [x] _Week 8_
+    - [x] _Week 9_
 - **_Labs_**
-    - [x] _แลป 1_
-    - [x] _แลป 2_
-    - [x] _แลป 3_
-    - [x] _แลป 4_
-    - [x] _แลป 5_
-    - [x] _แลป 6_
-    - [x] _แลป 7_
-    - [x] _แลป 8_
+    - [x] _Lab 1_
+    - [x] _Lab 2_
+    - [x] _Lab 3_
+    - [x] _Lab 4_
+    - [x] _Lab 5_
+    - [x] _Lab 6_
+    - [x] _Lab 7_
+    - [x] _Lab 8_
 - **_Activity_**
-    - [x] _ครั้งที่ 1_
-    - [x] _ครั้งที่ 2_
-    - [x] _ครั้งที่ 3_
-    - [x] _ครั้งที่ 4_
-    - [x] _ครั้งที่ 5_
-    - [x] _ครั้งที่ 6_
-    - [x] _ครั้งที่ 7_
+    - [x] _Activity 1_
+    - [x] _Activity 2_
+    - [x] _Activity 3_
+    - [x] _Activity 4_
+    - [x] _Activity 5_
+    - [x] _Activity 6_
+    - [x] _Activity 7_
 - **_Assignment_**
-    - [x] _รายงานวางแผนการทำเกม_
-    - [x] _รายงานความคืบหน้า ครั้งที่ 1_
-    - [x] _รายงานความคืบหน้า ครั้งที่ 2_
-    - [x] _รายงานความคืบหน้า ครั้งที่ 3_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 1 (Lab 9)_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 2 (Lab 10)_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 3 (Lab 11)_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 4 (Lab 12)_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 5 (Lab 13)_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 6 (Lab 14)_
-    - [x] _ภาพความคืบหน้า ครั้งที่ 7 (Lab 15)_
-    - [x] _เกมเสร็จสมบูรณ์_
+    - [x] _Game plan_
+    - [x] _Game progress report 1_
+    - [x] _Game progress report 2_
+    - [x] _Game progress report 3_
+    - [x] _Game progress picture 1 (Lab 9)_
+    - [x] _Game progress picture 2 (Lab 10)_
+    - [x] _Game progress picture 3 (Lab 11)_
+    - [x] _Game progress picture 4 (Lab 12)_
+    - [x] _Game progress picture 5 (Lab 13)_
+    - [x] _Game progress picture 6 (Lab 14)_
+    - [x] _Game progress picture 7 (Lab 15)_
+    - [x] _Complete Game_
 
-## 🗓️ ปฏิทิน
+## 🗓️ Calendar
 
-**ตอนนี้เรียนครบแล้ว**
+**Course ended**
 
-การส่ง Assignments
-- วันที่ 18-22 ตุลาคม : ให้คนที่ยังไม่ได้ส่งความคืบหน้ากับผมทาง discord ส่งให้เรียบร้อย ส่วนคนที่ส่งแล้วไม่มีงานอะไร แยกย้ายทำงานของตนเอง
-- วันที่ 25-29 ตุลาคม : ให้แต่ละคนส่ง Progress 2 + นำเสนองานของตนเองให้ผมดูผ่าน Discord
-- วันที่ 01-05 พฤศจิกายน : ไม่มีงานต้องนำเสนอ เปิดเป็น session ถามตอบ เตรียมงานของตนเอง
-- วันที่ 08-12 พฤศจิกายน : ให้แต่ละคนส่ง Progress 3 + นำเสนองานของตนเองให้ผมดูผ่าน Discord
-- วันที่ 15-19 พฤศจิกายน : ไม่มีงานต้องนำเสนอ เปิดเป็น session ถามตอบ และให้นักศึกษาเตรียม Infographics , Source code , Clip สำหรับส่งงาน
-- วันที่ 22-26 พฤศจิกายน : ส่งงานครั้งสุดท้าย (นำเสนอผ่าน Discord , ส่งไฟล์ต่าง ๆ ทาง Google Classroom และ ส่งคลิปทาง Padlet)
-
-### สิงหาคม
+### August
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **-** |  26 |  27 |  28 |  29 |  30 |  31 |   1 |
@@ -72,7 +64,7 @@
 | **4** |  23 |  24 |  25 |  26 |  27 |  28 |  29 |
 | **5** |  30 |  31 |   1 |   2 |   3 |   4 |   5 |
 
-### กันยายน
+### September
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **5** |  30 |  31 |   1 |   2 |   3 |   4 |   5 |
@@ -81,7 +73,7 @@
 | **8** |  20 |  21 |  22 |  23 |  24 |  25 |  26 |
 | **9** |  27 |  28 |  29 |  30 |   1 |   2 |   3 |
 
-### ตุลาคม
+### October
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **9** |  27 |  28 |  29 |  30 |   1 |   2 |   3 |
@@ -90,7 +82,7 @@
 | **12**|  18 |  19 |  20 |  21 |  22 |  23 |  24 |
 | **13**|  25 |  26 |  27 |  28 |  29 |  30 |  31 |
 
-### พฤษจิกายน
+### November
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **14**|   1 |   2 |   3 |   4 |   5 |   6 |   7 |
@@ -99,11 +91,11 @@
 | **17**|  22 |  23 |  24 |  25 |  26 |  27 |  28 |
 | **18**|  29 |  30 |  31 |  28 |  29 |  30 |   1 |
 
-## 🔗 ลิ้งค์
+## 🔗 References
 
-- → [รายการโจทย์ปัญหา (Google Doc)](https://docs.google.com/document/d/1ZvJCqXif7hGMGWO1VD9V2Lkamiu-ZDyI9epi1ooGwUE/edit)
-- → [รายการโจทย์ปัญหา (Project Euler)](https://projecteuler.net/archives)
-- → [ห้องเรียน (Google Classroom)](https://classroom.google.com/u/1/c/Mzc0MjM5MzM4MjYz)
-- → [สำหรับส่งการบ้านแลป (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSfYIanTtrSO82D4Xdqz-eKpMkt27btYiqaOSJsd9-t7NRDLwQ/viewform)
-- → [สำหรับส่งโปรแกรมรายสัปดาห์ (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSedgCOFaN2OoBZuQZRO-5nwzDhdEFGkRkrgWfEbt3IpnSpIhw/viewform)
-- → [รวมคลิปเกมของทุกคนทั้งหมดในปีการศึกษานี้ (Padlet)](https://padlet.com/thanunchai_th/umbrqixo4wbl4snn)
+- → [Programming Problem (Google Doc)](https://docs.google.com/document/d/1ZvJCqXif7hGMGWO1VD9V2Lkamiu-ZDyI9epi1ooGwUE/edit)
+- → [Euler (Project Euler)](https://projecteuler.net/archives)
+- → [Classroom (Google Classroom)](https://classroom.google.com/u/1/c/Mzc0MjM5MzM4MjYz)
+- → [Lab submission (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSfYIanTtrSO82D4Xdqz-eKpMkt27btYiqaOSJsd9-t7NRDLwQ/viewform)
+- → [Problem submission (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSedgCOFaN2OoBZuQZRO-5nwzDhdEFGkRkrgWfEbt3IpnSpIhw/viewform)
+- → [Complete games (Padlet)](https://padlet.com/thanunchai_th/umbrqixo4wbl4snn)
