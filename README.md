@@ -1,6 +1,6 @@
-# KMITL Programming fundamental
+# KMITL Programming Fundamental
 
-A place to store my works on subject Programming fundamental
+A place to store my works on subject Programming Fundamental
 
 - [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _Project Euler **Done (24)**_
 - [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _Programming Problem **Done (8)**_
