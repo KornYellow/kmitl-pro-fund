@@ -1,4 +1,4 @@
-## 📑 KMITL Programming fundamental
+# KMITL Programming fundamental
 
 A place to store my works on subject Programming fundamental 1/2564
 
@@ -7,7 +7,7 @@ A place to store my works on subject Programming fundamental 1/2564
 - [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs_
 - [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities_
 
-## 📝 Work to do / Done
+# Work to do / Done
 
 - **_Weekly_**
     - [x] _Week 1_
@@ -50,11 +50,11 @@ A place to store my works on subject Programming fundamental 1/2564
     - [x] _Game progress picture 7 (Lab 15)_
     - [x] _Complete Game_
 
-## 🗓️ Calendar
+# Calendar
 
 **Course ended**
 
-### August
+## August
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **-** |  26 |  27 |  28 |  29 |  30 |  31 |   1 |
@@ -64,7 +64,7 @@ A place to store my works on subject Programming fundamental 1/2564
 | **4** |  23 |  24 |  25 |  26 |  27 |  28 |  29 |
 | **5** |  30 |  31 |   1 |   2 |   3 |   4 |   5 |
 
-### September
+## September
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **5** |  30 |  31 |   1 |   2 |   3 |   4 |   5 |
@@ -73,7 +73,7 @@ A place to store my works on subject Programming fundamental 1/2564
 | **8** |  20 |  21 |  22 |  23 |  24 |  25 |  26 |
 | **9** |  27 |  28 |  29 |  30 |   1 |   2 |   3 |
 
-### October
+## October
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **9** |  27 |  28 |  29 |  30 |   1 |   2 |   3 |
@@ -82,7 +82,7 @@ A place to store my works on subject Programming fundamental 1/2564
 | **12**|  18 |  19 |  20 |  21 |  22 |  23 |  24 |
 | **13**|  25 |  26 |  27 |  28 |  29 |  30 |  31 |
 
-### November
+## November
 |   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **14**|   1 |   2 |   3 |   4 |   5 |   6 |   7 |
@@ -91,11 +91,11 @@ A place to store my works on subject Programming fundamental 1/2564
 | **17**|  22 |  23 |  24 |  25 |  26 |  27 |  28 |
 | **18**|  29 |  30 |  31 |  28 |  29 |  30 |   1 |
 
-## 🔗 References
+# References
 
-- → [Programming Problem (Google Doc)](https://docs.google.com/document/d/1ZvJCqXif7hGMGWO1VD9V2Lkamiu-ZDyI9epi1ooGwUE/edit)
-- → [Euler (Project Euler)](https://projecteuler.net/archives)
-- → [Classroom (Google Classroom)](https://classroom.google.com/u/1/c/Mzc0MjM5MzM4MjYz)
-- → [Lab submission (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSfYIanTtrSO82D4Xdqz-eKpMkt27btYiqaOSJsd9-t7NRDLwQ/viewform)
-- → [Problem submission (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSedgCOFaN2OoBZuQZRO-5nwzDhdEFGkRkrgWfEbt3IpnSpIhw/viewform)
-- → [Complete games (Padlet)](https://padlet.com/thanunchai_th/umbrqixo4wbl4snn)
+- Programming Problem: https://docs.google.com/document/d/1ZvJCqXif7hGMGWO1VD9V2Lkamiu-ZDyI9epi1ooGwUE/edit 
+- Project Euler: https://projecteuler.net/archives
+- Google Classroom: https://classroom.google.com/u/1/c/Mzc0MjM5MzM4MjYz
+- Lab submission: https://docs.google.com/forms/d/e/1FAIpQLSfYIanTtrSO82D4Xdqz-eKpMkt27btYiqaOSJsd9-t7NRDLwQ/viewform
+- Weekly problem submission: https://docs.google.com/forms/d/e/1FAIpQLSedgCOFaN2OoBZuQZRO-5nwzDhdEFGkRkrgWfEbt3IpnSpIhw/viewform
+- Complete games: https://padlet.com/thanunchai_th/umbrqixo4wbl4snn
