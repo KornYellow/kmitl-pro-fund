@@ -2,10 +2,10 @@
 
 A place to store my works on subject Programming Fundamental
 
-- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler) _Project Euler **Done (24)**_
-- [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem) _Programming Problem **Done (8)**_
-- [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs) _Labs_
-- [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities) _Activities_
+- [/project-euler](https://github.com/KornYellow/kmitl-pro-fund/tree/main/project-euler)
+- [/programming-problem](https://github.com/KornYellow/kmitl-pro-fund/tree/main/programming-problem)
+- [/labs](https://github.com/KornYellow/kmitl-pro-fund/tree/main/labs)
+- [/activities](https://github.com/KornYellow/kmitl-pro-fund/tree/main/activities)
 
 ## Work to do / Done
 
@@ -49,47 +49,6 @@ A place to store my works on subject Programming Fundamental
     - [x] _Game progress picture 6 (Lab 14)_
     - [x] _Game progress picture 7 (Lab 15)_
     - [x] _Complete Game_
-
-## Calendar
-
-**Course ended**
-
-### August
-|   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **-** |  26 |  27 |  28 |  29 |  30 |  31 |   1 |
-| **1** |   2 |   3 |   4 |   5 |   6 |   7 |   8 |
-| **2** |   9 |  10 |  11 |  12 |  13 |  14 |  15 |
-| **3** |  16 |  17 |  18 |  19 |  20 |  21 |  22 | 
-| **4** |  23 |  24 |  25 |  26 |  27 |  28 |  29 |
-| **5** |  30 |  31 |   1 |   2 |   3 |   4 |   5 |
-
-### September
-|   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **5** |  30 |  31 |   1 |   2 |   3 |   4 |   5 |
-| **6** |   6 |   7 |   8 |   9 |  10 |  11 |  12 |
-| **7** |  13 |  14 |  15 |  16 |  17 |  18 |  19 |
-| **8** |  20 |  21 |  22 |  23 |  24 |  25 |  26 |
-| **9** |  27 |  28 |  29 |  30 |   1 |   2 |   3 |
-
-### October
-|   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **9** |  27 |  28 |  29 |  30 |   1 |   2 |   3 |
-| **10**|   4 |   5 |   6 |   7 |   8 |   9 |  10 |
-| **11**|  11 |  12 |  13 |  14 |  15 |  16 |  17 |
-| **12**|  18 |  19 |  20 |  21 |  22 |  23 |  24 |
-| **13**|  25 |  26 |  27 |  28 |  29 |  30 |  31 |
-
-### November
-|   #   | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **14**|   1 |   2 |   3 |   4 |   5 |   6 |   7 |
-| **15**|   8 |   9 |  10 |  11 |  12 |  13 |  14 |
-| **16**|  15 |  16 |  17 |  18 |  19 |  20 |  21 |
-| **17**|  22 |  23 |  24 |  25 |  26 |  27 |  28 |
-| **18**|  29 |  30 |  31 |  28 |  29 |  30 |   1 |
 
 ## References
 
